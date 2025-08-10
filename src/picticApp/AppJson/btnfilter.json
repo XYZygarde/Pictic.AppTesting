@@ -1,0 +1,13 @@
+{
+  "none": "",
+  "grayscale": "grayscale",
+  "sepia": "sepia",
+  "contrast": "contrast-150",
+  "invert": "invert brightness-110",
+  "brightness": "brightness-125",
+  "dim": "brightness-75",
+  "saturate": "saturate-150",
+  "desaturate": "saturate-50",
+  "coolTone": "hue-rotate-180 saturate-150",
+  "warmTone": "sepia brightness-110"
+}

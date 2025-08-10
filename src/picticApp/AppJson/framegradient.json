@@ -1,0 +1,10 @@
+{
+  "Sunset": "linear-gradient(45deg, #ff9a9e, #fad0c4)",
+  "Aqua": "linear-gradient(45deg, #43e97b, #38f9d7)",
+  "PurpleBlue": "linear-gradient(45deg, #667eea, #764ba2)",
+  "Peach": "linear-gradient(45deg, #ffecd2, #fcb69f)",
+  "OceanBlue": "linear-gradient(45deg, #2193b0, #6dd5ed)",
+  "WarmFlame": "linear-gradient(45deg, #ff9a9e, #fecfef)",
+  "NightFade": "linear-gradient(45deg, #a18cd1, #fbc2eb)",
+  "SpringWarmth": "linear-gradient(45deg, #fad0c4, #ffd1ff)"
+}
